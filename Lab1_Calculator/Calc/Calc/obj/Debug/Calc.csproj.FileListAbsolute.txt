@@ -1,0 +1,9 @@
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\bin\Debug\Calc.exe.config
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\bin\Debug\Calc.exe
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\bin\Debug\Calc.pdb
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\obj\Debug\Calc.frmCalc.resources
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\obj\Debug\Calc.exe
+d:\КомпОбрДанн\Csharp\Lab1_Calculator\Calc\Calc\obj\Debug\Calc.pdb
